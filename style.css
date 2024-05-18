@@ -299,12 +299,14 @@ main {
 }
 
 .main-block__h3 {
-  font-size: 22px;
+  font-size: 26px;
 }
 
 .main-block__txt {
   overflow: hidden;
   height: 70px;
+  color: #3d0808;
+  font-size: 17px;
 }
 
 #loadingScreen {
